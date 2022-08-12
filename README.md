@@ -6,4 +6,4 @@ Amazing Prime loves the dataset and wants to keep it updated daily. Amazing Prim
 
 ### Fig.1 ETL process 
 
-![](resources/modulo81.png)  
+![](Resources/modulo81.png)  
